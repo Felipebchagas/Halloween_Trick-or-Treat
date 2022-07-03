@@ -1,0 +1,19 @@
+.flickity-button {
+    display: none;
+}
+
+.flickity-page-dots{
+    display: none;
+}
+
+.carousel {
+  width: 100%;
+}
+
+section.home .carousel-cell {
+  padding-left: 0.7rem;
+}
+
+section.s-new .carousel-cell {
+  margin-right: 30px;
+}
